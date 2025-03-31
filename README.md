@@ -28,4 +28,4 @@ fi.show()
 fi.show_dsm()
 ```
 
-<img src="https://github.com/nudoi/field/raw/refs/heads/main/image/readme/20230925-dsm.png" width="400">
+<img src="https://github.com/nudoi/field/raw/refs/heads/main/image/readme/20230925-dsm.png" width="500">
